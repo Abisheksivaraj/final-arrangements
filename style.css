@@ -707,15 +707,13 @@ label:active:after {
   padding: 1.2rem;
   height: 2rem;
   width: 22rem;
-  margin-left: 1.1rem;
+  margin-left: 4rem;
 }
 
 .mail {
   padding: 1.2rem;
   height: 2rem;
   width: 22rem;
-
-  margin-left: 2rem;
 }
 
 #customer-feedback {
@@ -723,14 +721,14 @@ label:active:after {
   color: #a8abb0;
 
   padding: 1rem;
-  margin-left: 1.1rem;
+  margin-left: 1rem;
 }
 
 .submit {
 height: 3rem;
-  margin-left: 2rem;
+  margin-left: 6rem;
   margin-top: 1rem;
-  padding: 1rem;
+  padding: 2rem;
   
   color: white;
   background-color: orange;
